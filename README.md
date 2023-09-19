@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohin1619
 - 👀 I’m interested in Sports and Travelling.
-- 🌱 I’m currently learning Programing Languages(Python, Java, html, xml).
+- 🌱 I’m currently learning Programing Languages(Python, Javascript, html).
 - 📫 How to reach me : rohinbharatee@gmail.com
 
 <!---
